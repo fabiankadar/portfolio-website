@@ -97,7 +97,6 @@ a:hover {
   position: absolute;
   top: 100%;
   right: 0;
-  background-color: white;
   width: fit-content;
   max-height: 0;
   overflow: hidden;
@@ -420,4 +419,15 @@ article .icon {
 
 .email-icon {
   height: 2.5rem;
+}
+
+/* Footer Section */
+
+footer {
+  height: 26vh;
+  margin: 0 1rem;
+}
+
+footer p {
+  text-align: center;
 }
